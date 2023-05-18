@@ -1,22 +1,14 @@
-# WDM. Lab. NUMER. TITLE
+# WDM. Lab. 8. Klasteryzacja
 
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-NUMER=01
-NOTEBOOK=01_Wprowadzenie.ipynb
-REPO=wdm_23_lab_01
-
-Notatnik: [NOTEBOOK](https://github.com/IS-UMK/REPO/blob/master/NOTEBOOK)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/REPO/blob/master/NOTEBOOK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/REPO/master?filepath=NOTEBOOK)
+Notatnik: [08_klasteryzacja.ipynb](https://github.com/IS-UMK/wdm_23_lab_08/blob/master/08_klasteryzacja.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_23_lab_08/blob/master/08_klasteryzacja.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_23_lab_08/master?filepath=08_klasteryzacja.ipynb)
 
 ---
 
-## Zad. NUMER. TITLE
+## Zad. 8. Klasyfikacja danych WDBC
 
 
-Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle lub prześlij do repozytorium GitHub.
+Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle ([Zad 7](https://moodle.umk.pl/WFAIIS/mod/assign/view.php?id=7528)) pod lub prześlij do repozytorium GitHub.
 
----
-## Materiały:
-
-* 
